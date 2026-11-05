@@ -1,39 +1,27 @@
+### Hi, I'm Ioana
 
-I'm a Computer Science student at UTCN Cluj-Napoca, passionate about building clean backend APIs to full-stack web apps.
+Computer Science student at UTCN Cluj-Napoca, building full-stack web apps with **.NET** and **Spring Boot** backends and **React** frontends. I care about clean layered architecture, secure REST APIs and code that is easy to maintain.
 
-What I work with:
+**Tech stack**
+- **Backend:** C# / ASP.NET Core, Entity Framework Core, Java / Spring Boot, REST APIs, JWT authentication
+- **Frontend:** React, JavaScript
+- **Databases:** PostgreSQL, MySQL
+- **DevOps & tools:** Docker, Docker Compose, Traefik, Swagger/OpenAPI, Git, Visual Studio, IntelliJ IDEA
+- **Languages:** C#, Java, C/C++, Python
+- **Concepts:** OOP, design patterns, microservices, layered architecture, data structures & algorithms
 
-Languages: C/C++, Java, Python  
-Backend: Spring Boot, REST APIs, Dependency Injection  
-Frontend: React
-Databases: MySQL, PostgreSQL  
-Tools: Git, IntelliJ IDEA, VS Code  
-Concepts: OOP, Data Structures, Algorithms, Design Patterns
+**Featured projects**
 
+**Energy Management System** – microservices (ASP.NET Core, React, PostgreSQL, Docker)
+Three independent services (Auth, Users, Devices), each with its own database, behind a Traefik API gateway. JWT validation and role-based authorization (Admin/Client) at gateway level, EF Core migrations, Swagger docs.
 
-Projects I'm proud of:
+**Online Shop Website** – Spring Boot, React, PostgreSQL
+Full-stack e-commerce app with layered architecture, JWT auth, role-based access (admin/customer) and a complete REST API.
 
-Online Shop Website
-Full-stack e-commerce app built with Spring Boot + React + PostgreSQL.  
-Layered architecture, JWT auth, role-based access (admin/customer), and a fully functional REST API.
+**Library Management System** – Java, JDBC
+Desktop app for managing books, users and borrowings, using the Controller–Service–Repository pattern.
 
-Library Management System
-Desktop app in Java for managing books, users, and borrowings.  
-CRUD operations via JDBC, clean OOP design with Controller-Service-Repository pattern.
+**Currently**
+Exploring SQL Server, unit testing (xUnit/JUnit) and CI/CD with GitHub Actions.
 
-C++ Benchmark Tool
-A performance benchmarking app using multithreading and process creation.  
-Measures CPU, memory bandwidth, and logical operations: millions of ops per second.
-
-
-Currently learning
-
-- Deepening my Java skills and building more full-stack projects similar to the Online Shop (Spring Boot, REST APIs, layered architecture)
-- Strengthening the theory behind what I build: design patterns, software architecture, and backend best practices
-
-
-Let's connect!
-
-ioanacuha9@gmail.com  
-Cluj-Napoca, Romania  
-Open to internships & junior roles in backend / full-stack development
+Cluj-Napoca, Romania, ioanacuha9@gmail.com
